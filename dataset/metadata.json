@@ -1,0 +1,198 @@
+{
+     "Sweet_song": {
+          "paths": {
+               "original": "../dataset/original/Sweet_song.wav",
+               "lossless": "../dataset/lossless/Sweet_song.flac",
+               "lossy": "../dataset/lossy/Sweet_song.mp3"
+          },
+          "sizes": {
+               "size_original": "41.24 MB",
+               "size_lossless": "22.80 MB",
+               "size_lossy": "1.72 MB"
+          },
+          "info": {
+               "sampe_rate": 48000,
+               "channels": 2,
+               "bit_depth_ori": "PCM_16",
+               "bit_depth_lossless": "PCM_16",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 2,
+               "lossy_compressrate": 24,
+               "bitrate_ori": 1536,
+               "bitrate_losless": 849,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 18
+          }
+     },
+     "5secs": {
+          "paths": {
+               "original": "../dataset/original/5secs.wav",
+               "lossless": "../dataset/lossless/5secs.flac",
+               "lossy": "../dataset/lossy/5secs.mp3"
+          },
+          "sizes": {
+               "size_original": "1.05 MB",
+               "size_lossless": "0.24 MB",
+               "size_lossy": "0.05 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_16",
+               "bit_depth_lossless": "PCM_16",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 4,
+               "lossy_compressrate": 22,
+               "bitrate_ori": 1411,
+               "bitrate_losless": 328,
+               "bitrate_lossy": 65,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 26
+          }
+     },
+     "146": {
+          "paths": {
+               "original": "../dataset/original/146.wav",
+               "lossless": "../dataset/lossless/146.flac",
+               "lossy": "../dataset/lossy/146.mp3"
+          },
+          "sizes": {
+               "size_original": "18.66 MB",
+               "size_lossless": "12.48 MB",
+               "size_lossy": "0.85 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_16",
+               "bit_depth_lossless": "PCM_16",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 1,
+               "lossy_compressrate": 22,
+               "bitrate_ori": 1411,
+               "bitrate_losless": 944,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 15
+          }
+     },
+     "11secs": {
+          "paths": {
+               "original": "../dataset/original/11secs.wav",
+               "lossless": "../dataset/lossless/11secs.flac",
+               "lossy": "../dataset/lossy/11secs.mp3"
+          },
+          "sizes": {
+               "size_original": "2.10 MB",
+               "size_lossless": "0.50 MB",
+               "size_lossy": "0.10 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_16",
+               "bit_depth_lossless": "PCM_16",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 4,
+               "lossy_compressrate": 22,
+               "bitrate_ori": 1411,
+               "bitrate_losless": 338,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 26
+          }
+     },
+     "1min": {
+          "paths": {
+               "original": "../dataset/original/1min.wav",
+               "lossless": "../dataset/lossless/1min.flac",
+               "lossy": "../dataset/lossy/1min.mp3"
+          },
+          "sizes": {
+               "size_original": "10.54 MB",
+               "size_lossless": "2.99 MB",
+               "size_lossy": "0.48 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_16",
+               "bit_depth_lossless": "PCM_16",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 4,
+               "lossy_compressrate": 22,
+               "bitrate_ori": 1411,
+               "bitrate_losless": 400,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 26
+          }
+     },
+     "Impertinence_song": {
+          "paths": {
+               "original": "../dataset/original/Impertinence_song.wav",
+               "lossless": "../dataset/lossless/Impertinence_song.flac",
+               "lossy": "../dataset/lossy/Impertinence_song.mp3"
+          },
+          "sizes": {
+               "size_original": "18.88 MB",
+               "size_lossless": "13.52 MB",
+               "size_lossy": "0.57 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_24",
+               "bit_depth_lossless": "PCM_24",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 1,
+               "lossy_compressrate": 33,
+               "bitrate_ori": 2117,
+               "bitrate_losless": 1516,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 12
+          }
+     },
+     "Weather_song": {
+          "paths": {
+               "original": "../dataset/original/Weather_song.wav",
+               "lossless": "../dataset/lossless/Weather_song.flac",
+               "lossy": "../dataset/lossy/Weather_song.mp3"
+          },
+          "sizes": {
+               "size_original": "42.34 MB",
+               "size_lossless": "31.65 MB",
+               "size_lossy": "1.28 MB"
+          },
+          "info": {
+               "sampe_rate": 44100,
+               "channels": 2,
+               "bit_depth_ori": "PCM_24",
+               "bit_depth_lossless": "PCM_24",
+               "bit_depth_lossy": "MPEG_LAYER_III"
+          },
+          "evaluation": {
+               "lossless_compressrate": 1,
+               "lossy_compressrate": 33,
+               "bitrate_ori": 2117,
+               "bitrate_losless": 1582,
+               "bitrate_lossy": 64,
+               "lossless_snr": "Perfect (Inf)",
+               "lossy_snr": 17
+          }
+     }
+}
