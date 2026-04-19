@@ -1,6 +1,8 @@
 # Managing Audio Storage with Combined Lossy and Lossless Compression
 
 ## Structure 
+
+```text
 Compress_project/
   dataset/
     original/
@@ -12,7 +14,7 @@ Compress_project/
     Metadata.py
     Retrieval.ipynb
     Main.py
- 
+```
 
 ## Requirement
 - Python 3.12.3
