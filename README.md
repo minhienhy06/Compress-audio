@@ -19,6 +19,7 @@ Compress_project/
 ## Requirement
 - Python 3.12.3
 - ffmpeg installed (needed for pydub encode/decode)
+- pip install -r requirements.txt (for the libraries)
 
 ## Running
 
