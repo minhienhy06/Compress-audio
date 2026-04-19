@@ -1,6 +1,7 @@
-Audio-preview
 pydub
-AudioSegment
+numpy
 soundfile
-Ipython
-
+librosa
+matplotlib
+jupyter
+ipython
