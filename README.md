@@ -1,21 +1,18 @@
 #Managing Audio Storage with Combined Lossy and Lossless Compression
 
 ## Structure 
-Compression_projection
- |--dataset
- |  |--original
- |  |--lossless
- |  |--lossy
- |  |--metadata.json
- |
- |
- |--source
- |  |--Encode.py
- |  |--Metadata.py
- |  |--Retrieval.ipynb
- |  |--Main.py
- |
- |
+Compression_projection/
+ dataset/
+  original/
+  lossless/
+  lossy/
+ source/
+  Encode.py
+  Metadata.py
+  Retrieval.py
+  Main.py
+ 
+ 
 
 ## Requirement
 - Python 3.12.3
